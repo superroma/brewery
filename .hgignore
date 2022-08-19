@@ -1,6 +1,0 @@
-syntax: glob
-*.skb
-Lib/Drawings/*
-Images/Raw/*
-Control/backup/*
-*.orig
